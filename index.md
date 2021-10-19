@@ -13,7 +13,7 @@ Liens utiles :
 * Youtube : [Cliquez](https://youtube.fr) 
 * Spotify : [Cliquez](https://spotify.fr) 
 
-<!DOCTYPE html>
+
 <html>
    <head>
       <title>Titre du document</title>
