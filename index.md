@@ -1,5 +1,7 @@
 # Bienvenu sur le site de Black Smile
 
+![photo](https://media.discordapp.net/attachments/818179327774556192/900049174681243658/unknown.png)
+
 **Retrouvez sur notre site officiel :**
 * Tous les `événements`
 * Toutes les `Nouveautés`
